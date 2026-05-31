@@ -16,4 +16,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/JinmuGo/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/JinmuGo/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 <!---LeetCode Topics End-->
