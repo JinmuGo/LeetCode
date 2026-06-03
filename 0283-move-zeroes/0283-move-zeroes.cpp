@@ -1,18 +1,16 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int left = 0;
-        int right = nums.size();
+        int right = 0;
 
-        while (left < right) {
-            int left_elem = nums.at(left);
-            if (left_elem == 0) {
-                nums.erase(nums.begin() + left);               
-                nums.push_back(0);
-                right--;
-                left--;
+        for (int left = 0; left < nums.size(); left++) {
+            if (nums[left] != 0) {
+                nums[right++] = nums[left];
             }
-            left++;
+        }
+
+        while (right < nums.size()) {
+            nums[right++] = 0;
         }
     }
 };
