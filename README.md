@@ -57,12 +57,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/JinmuGo/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0278-first-bad-version](https://github.com/JinmuGo/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/JinmuGo/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/JinmuGo/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JinmuGo/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/JinmuGo/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/JinmuGo/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
