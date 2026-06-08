@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/JinmuGo/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/JinmuGo/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/JinmuGo/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/JinmuGo/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/JinmuGo/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/JinmuGo/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/JinmuGo/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/JinmuGo/LeetCode/tree/main/0278-first-bad-version/) | Easy |
