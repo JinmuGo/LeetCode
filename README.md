@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/JinmuGo/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JinmuGo/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/JinmuGo/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/JinmuGo/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/JinmuGo/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/JinmuGo/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
