@@ -2,7 +2,7 @@ class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
         int left = 0;
-        int right = nums.size() - 1;
+        int right = nums.size();
 
         while (left < right) {
             int mid = left + (right - left) / 2;
@@ -14,6 +14,6 @@ public:
             }
         }
 
-        return nums[left] < target ? left + 1 : left;
+        return right;
     }
 };
