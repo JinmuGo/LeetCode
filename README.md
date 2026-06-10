@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/JinmuGo/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JinmuGo/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/JinmuGo/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/JinmuGo/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/JinmuGo/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/JinmuGo/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/JinmuGo/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
