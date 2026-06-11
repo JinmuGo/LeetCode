@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/JinmuGo/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0136-single-number](https://github.com/JinmuGo/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/JinmuGo/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/JinmuGo/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/JinmuGo/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -109,5 +110,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/JinmuGo/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/JinmuGo/LeetCode/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
