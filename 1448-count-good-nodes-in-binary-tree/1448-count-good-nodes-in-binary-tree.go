@@ -7,26 +7,21 @@
  * }
  */
 func goodNodes(root *TreeNode) int {
-    cnt := 0
+    return dfs(root, root.Val)
+}
 
-    var isGood func(maxVal int, root *TreeNode)
-
-    isGood = func(maxVal int, root *TreeNode) {
-        if root == nil {
-            return 
-        }
-    
-        if maxVal <= root.Val {
-            maxVal = root.Val
-            cnt++
-        }
-    
-        isGood(maxVal, root.Left)
-        isGood(maxVal, root.Right)
+func dfs(root *TreeNode, maxVal int) int {
+    if root == nil {
+        return 0
     }
 
-    isGood(root.Val, root)
+    count := 0
 
-    return cnt
+    if root.Val >= maxVal {
+        count++
+        maxVal = root.Val
+    }
+
+    return count + dfs(root.Left, maxVal) + dfs(root.Right, maxVal)
 }
 
