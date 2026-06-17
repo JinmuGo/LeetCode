@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JinmuGo/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/JinmuGo/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -146,9 +147,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JinmuGo/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/JinmuGo/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/JinmuGo/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JinmuGo/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/JinmuGo/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
