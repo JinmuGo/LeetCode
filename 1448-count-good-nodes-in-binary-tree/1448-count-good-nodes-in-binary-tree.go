@@ -7,24 +7,26 @@
  * }
  */
 func goodNodes(root *TreeNode) int {
-    cnt := 1
+    cnt := 0
 
-    isGood(root.Val, &cnt, root.Left) 
-    isGood(root.Val, &cnt, root.Right) 
+    var isGood func(maxVal int, root *TreeNode)
+
+    isGood = func(maxVal int, root *TreeNode) {
+        if root == nil {
+            return 
+        }
+    
+        if maxVal <= root.Val {
+            maxVal = root.Val
+            cnt++
+        }
+    
+        isGood(maxVal, root.Left)
+        isGood(maxVal, root.Right)
+    }
+
+    isGood(root.Val, root)
 
     return cnt
 }
 
-func isGood(maxVal int, cnt *int, root *TreeNode) {
-    if root == nil {
-        return 
-    }
-
-    if maxVal <= root.Val {
-        maxVal = root.Val
-        (*cnt)++
-    }
-
-    isGood(maxVal, cnt, root.Left)
-    isGood(maxVal, cnt, root.Right)
-}
