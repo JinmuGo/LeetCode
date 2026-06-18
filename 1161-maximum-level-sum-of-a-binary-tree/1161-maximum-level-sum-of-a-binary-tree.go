@@ -7,6 +7,10 @@
  * }
  */
 func maxLevelSum(root *TreeNode) int {
+    if root == nil {
+        return 0
+    }
+
     queue := []*TreeNode{root}
     curLevel := 1
     level := 1
@@ -15,18 +19,15 @@ func maxLevelSum(root *TreeNode) int {
     for len(queue) > 0 {
         n := len(queue)
         sum := 0
+        nextQueue := make([]*TreeNode, 0, n * 2)
 
-        for i := 0; i < n; i++ {
-            node := queue[0]
-            queue = queue[1:]
-
+        for _, node := range queue {
             sum += node.Val
-
             if node.Left != nil {
-                queue = append(queue, node.Left)
+                nextQueue = append(nextQueue, node.Left)
             }
             if node.Right != nil {
-                queue = append(queue, node.Right)
+                nextQueue = append(nextQueue, node.Right)
             }
         }
 
@@ -35,6 +36,7 @@ func maxLevelSum(root *TreeNode) int {
             level = curLevel
         }
 
+        queue = nextQueue
         curLevel++
     }
 
