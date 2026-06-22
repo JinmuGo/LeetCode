@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/JinmuGo/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/JinmuGo/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JinmuGo/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/JinmuGo/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JinmuGo/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/JinmuGo/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/JinmuGo/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JinmuGo/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/JinmuGo/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/JinmuGo/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/JinmuGo/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JinmuGo/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/JinmuGo/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/JinmuGo/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
