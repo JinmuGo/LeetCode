@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/JinmuGo/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/JinmuGo/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/JinmuGo/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JinmuGo/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/JinmuGo/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JinmuGo/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JinmuGo/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/JinmuGo/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/JinmuGo/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JinmuGo/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JinmuGo/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/JinmuGo/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JinmuGo/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JinmuGo/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/JinmuGo/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JinmuGo/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JinmuGo/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -142,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/JinmuGo/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/JinmuGo/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/JinmuGo/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JinmuGo/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JinmuGo/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
