@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/JinmuGo/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/JinmuGo/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/JinmuGo/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/JinmuGo/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/JinmuGo/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/JinmuGo/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/JinmuGo/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -130,10 +131,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/JinmuGo/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/JinmuGo/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/JinmuGo/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/JinmuGo/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
