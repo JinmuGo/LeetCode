@@ -15,33 +15,37 @@ func maximumLength(nums []int) int {
         }
     }
 
-    var recursive func(num, cnt, res int) int
-
-    recursive = func (num, cnt, res int) int {
-        if num <= 1 {
-            return res
-        }
-        if cnt2, ok := maps[num]; !ok || cnt2 < cnt {
-            return res
-        }
-
-        res += cnt
-
-        nextNum := int(math.Sqrt(float64(num)))
-
-        if nextNum * nextNum != num {
-            return res
-        }
-
-        return recursive(nextNum, 2, res)
-
-    }
+    dp := make(map[int]int)
 
     for num := range maps {
         if num == 1 {
             continue
         }
-        maxVal = max(maxVal, recursive(num, 0, 1))
+
+        if _, ok := dp[num]; ok {
+            continue
+        }
+
+        cur := num
+        var chain []int
+
+        for maps[cur] >= 2 {
+            chain = append(chain, cur)
+            cur = cur * cur
+        }
+
+        totalLen := 0
+        if maps[cur] >= 1 {
+            totalLen++
+        } else  {
+            totalLen--
+        }
+
+        for i := len(chain) - 1; i >= 0; i-- {
+            totalLen += 2
+            dp[chain[i]] = totalLen
+            maxVal = max(maxVal, totalLen)
+        } 
     }
 
     return maxVal
