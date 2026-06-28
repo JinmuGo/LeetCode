@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/JinmuGo/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/JinmuGo/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/JinmuGo/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/JinmuGo/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/JinmuGo/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/JinmuGo/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JinmuGo/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0394-decode-string](https://github.com/JinmuGo/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/JinmuGo/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/JinmuGo/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/JinmuGo/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -251,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JinmuGo/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/JinmuGo/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
