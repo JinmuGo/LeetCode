@@ -1,8 +1,6 @@
 func findSafeWalk(grid [][]int, health int) bool {
     m := len(grid)
     n := len(grid[0])
-    // health >= 1 && grid[n -1][n - 1] 에 도착
-    // 다 돌면서 맵을 만들어야 겠는데. 현재 위치에 도달하면 체력이 어느정도 남았는지. 만약 n- 1, m-1 ?이 1 >= 이상이면 true 아니면  false나오도록. 
 
     healthMap := make([][]int, m)
     queue := make([][]int, 0)
