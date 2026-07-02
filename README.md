@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JinmuGo/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/JinmuGo/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/JinmuGo/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/JinmuGo/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/JinmuGo/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/JinmuGo/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/JinmuGo/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/JinmuGo/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JinmuGo/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/JinmuGo/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/JinmuGo/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/JinmuGo/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JinmuGo/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -282,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/JinmuGo/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
