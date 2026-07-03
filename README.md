@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JinmuGo/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JinmuGo/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JinmuGo/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Greedy
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/JinmuGo/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/JinmuGo/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/JinmuGo/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/JinmuGo/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/JinmuGo/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JinmuGo/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/JinmuGo/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/JinmuGo/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,4 +309,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
