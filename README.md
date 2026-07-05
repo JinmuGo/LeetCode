@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JinmuGo/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JinmuGo/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JinmuGo/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/JinmuGo/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JinmuGo/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/JinmuGo/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/JinmuGo/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/JinmuGo/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-determine-if-two-strings-are-close](https://github.com/JinmuGo/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/JinmuGo/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JinmuGo/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/JinmuGo/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JinmuGo/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JinmuGo/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JinmuGo/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -304,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/JinmuGo/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Trie
