@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/JinmuGo/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/JinmuGo/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JinmuGo/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/JinmuGo/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JinmuGo/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JinmuGo/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JinmuGo/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/JinmuGo/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JinmuGo/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JinmuGo/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/JinmuGo/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JinmuGo/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/JinmuGo/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/JinmuGo/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/JinmuGo/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
