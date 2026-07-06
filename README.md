@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/JinmuGo/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/JinmuGo/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/JinmuGo/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/JinmuGo/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/JinmuGo/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JinmuGo/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/JinmuGo/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/JinmuGo/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1268-search-suggestions-system](https://github.com/JinmuGo/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/JinmuGo/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/JinmuGo/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/JinmuGo/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JinmuGo/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
