@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/JinmuGo/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JinmuGo/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/JinmuGo/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JinmuGo/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
