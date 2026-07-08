@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/JinmuGo/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/JinmuGo/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JinmuGo/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JinmuGo/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/JinmuGo/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JinmuGo/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/JinmuGo/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JinmuGo/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3699-number-of-zigzag-arrays-i](https://github.com/JinmuGo/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JinmuGo/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JinmuGo/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JinmuGo/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
