@@ -14,8 +14,6 @@ func pathExistenceQueries(n int, nums []int, maxDiff int, queries [][]int) []boo
         res[i] = (prefix[v] - prefix[u]) == 0
 	}
 
-    fmt.Println(prefix)
-
     return res
 }
 
