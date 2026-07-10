@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/JinmuGo/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JinmuGo/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JinmuGo/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/JinmuGo/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JinmuGo/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JinmuGo/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/JinmuGo/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JinmuGo/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JinmuGo/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/JinmuGo/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/JinmuGo/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JinmuGo/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/JinmuGo/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/JinmuGo/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/JinmuGo/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JinmuGo/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/JinmuGo/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/JinmuGo/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Sliding Window
@@ -144,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JinmuGo/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JinmuGo/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/JinmuGo/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
@@ -160,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/JinmuGo/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JinmuGo/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JinmuGo/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/JinmuGo/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/JinmuGo/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/JinmuGo/LeetCode/tree/main/0338-counting-bits/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/JinmuGo/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JinmuGo/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JinmuGo/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JinmuGo/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/JinmuGo/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/JinmuGo/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
