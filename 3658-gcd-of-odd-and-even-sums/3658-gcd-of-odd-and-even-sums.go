@@ -1,16 +1,6 @@
 func gcdOfOddEvenSums(n int) int {
-	odd := 1
-	even := 2
-	sumOdd, sumEven := 0, 0
-
-	for i := 0; i < n; i++ {
-		sumOdd += odd
-		sumEven += even
-
-		odd += 2
-		even += 2
-	}
-
+	sumOdd := n * n
+	sumEven := n * (n + 1)
 
     return gcd(sumOdd, sumEven)
 }
