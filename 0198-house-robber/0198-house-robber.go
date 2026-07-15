@@ -1,5 +1,4 @@
 func rob(nums []int) int {
-    // dp 
     n := len(nums)
 
     if n == 1 {
