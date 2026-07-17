@@ -9,34 +9,29 @@
 
  // direction true -> left, false -> right
 func longestZigZag(root *TreeNode) int {
-    if root == nil {
-        return 0
-    }
+    max := 0
 
-    left := maxZigZag(root.Left, false)
-    right := maxZigZag(root.Right, true)
-    val1 := longestZigZag(root.Left)
-    val2 := longestZigZag(root.Right)
-
-    return max(left, right, val1, val2)
-}
-
-func maxZigZag(node *TreeNode, direction bool) int {
-    if node == nil {
-        return 0
-    }
-    cnt := 0
-
-    for node != nil {
-        if direction {
-            // left
-            node = node.Left
-        } else {
-            node = node.Right
+    var dfs func(node *TreeNode, isLeft bool, length int)
+    dfs = func(node *TreeNode, isLeft bool, length int) {
+        if node == nil {
+            return 
         }
-        cnt++
-        direction = !direction
+
+        if length > max {
+            max = length
+        }
+
+        if isLeft {
+            dfs(node.Right, false, length + 1)
+            dfs(node.Left, true, 1)
+        } else {
+            dfs(node.Left, true, length + 1)
+            dfs(node.Right, false, 1)
+        }
     }
 
-    return cnt
+    dfs(root.Left, true, 1)
+    dfs(root.Right, false, 1)
+
+    return max
 }
