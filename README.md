@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/JinmuGo/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/JinmuGo/LeetCode/tree/main/0338-counting-bits/) | Easy |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/JinmuGo/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JinmuGo/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
