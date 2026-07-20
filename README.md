@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/JinmuGo/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/JinmuGo/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/JinmuGo/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1260-shift-2d-grid](https://github.com/JinmuGo/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1268-search-suggestions-system](https://github.com/JinmuGo/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/JinmuGo/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/JinmuGo/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/JinmuGo/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [1260-shift-2d-grid](https://github.com/JinmuGo/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/JinmuGo/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/JinmuGo/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JinmuGo/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/JinmuGo/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1260-shift-2d-grid](https://github.com/JinmuGo/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/JinmuGo/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/JinmuGo/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/JinmuGo/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
