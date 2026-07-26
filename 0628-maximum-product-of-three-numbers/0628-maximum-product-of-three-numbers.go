@@ -1,15 +1,9 @@
 func maximumProduct(nums []int) int {
-    sort.Slice(nums, func(i, j int) bool {
-        return nums[i] > nums[j]
-    })
-
+    sort.Ints(nums)
     n := len(nums)
 
-    candidate := nums[0] * nums[1] * nums[2]
-    negative := nums[0] * nums[n - 1] * nums [n - 2]
+    c1 := nums[n - 1] * nums[n - 2] * nums[n - 3]
+    c2 := nums[0] * nums[1] * nums [n - 1]
 
-    if negative > candidate {
-        return negative
-    }
-    return candidate
+    return max(c1, c2)
 }
