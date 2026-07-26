@@ -1,9 +1,16 @@
 func maxProduct(n int) int {
-    str := []rune(strconv.Itoa(n))
+    first, second := 0, 0
 
-    sort.Slice(str, func(i, j int) bool {
-        return str[i] > str[j]
-    })
-
-    return int(str[0] - '0') * int(str[1] - '0')
+	for n > 0 {
+		x := n % 10
+		if x > first {
+			second = first
+			first = x
+		} else if x > second {
+			second = x
+		}
+		n /= 10
+	}
+    
+	return first * second
 }
