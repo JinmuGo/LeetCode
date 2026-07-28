@@ -1,7 +1,14 @@
 func maxProduct(nums []int) int {
-    sort.Slice(nums, func(i, j int) bool {
-        return nums[i] > nums[j]
-    })
+    big, sbig := 0, 0
 
-    return (nums[0] - 1) * (nums[1] - 1)
+    for _, num := range nums {
+        if num > big {
+            sbig = big
+            big = num
+        } else {
+            sbig = max(sbig, num)
+        }
+    }
+
+    return (big - 1) * (sbig - 1)
 }
